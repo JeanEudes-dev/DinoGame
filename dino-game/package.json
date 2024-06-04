@@ -1,7 +1,7 @@
 {
   "name": "dino-game",
   "version": "0.1.0",  
-  "homepage": "https://JeanEudes-dev.github.io/dino-game",
+  "homepage": "https://JeanEudes-dev.github.io/DinoGame",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
