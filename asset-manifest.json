@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DinoGame/static/css/main.1d766016.css",
-    "main.js": "/DinoGame/static/js/main.9bfae86f.js",
+    "main.js": "/DinoGame/static/js/main.6fa92ee0.js",
     "static/js/453.f03159f6.chunk.js": "/DinoGame/static/js/453.f03159f6.chunk.js",
     "index.html": "/DinoGame/index.html",
     "main.1d766016.css.map": "/DinoGame/static/css/main.1d766016.css.map",
-    "main.9bfae86f.js.map": "/DinoGame/static/js/main.9bfae86f.js.map",
+    "main.6fa92ee0.js.map": "/DinoGame/static/js/main.6fa92ee0.js.map",
     "453.f03159f6.chunk.js.map": "/DinoGame/static/js/453.f03159f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d766016.css",
-    "static/js/main.9bfae86f.js"
+    "static/js/main.6fa92ee0.js"
   ]
 }
