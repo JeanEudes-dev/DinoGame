@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dino-game/static/css/main.1d766016.css",
+    "main.js": "/dino-game/static/js/main.ee75cd04.js",
+    "static/js/453.f03159f6.chunk.js": "/dino-game/static/js/453.f03159f6.chunk.js",
+    "index.html": "/dino-game/index.html",
+    "main.1d766016.css.map": "/dino-game/static/css/main.1d766016.css.map",
+    "main.ee75cd04.js.map": "/dino-game/static/js/main.ee75cd04.js.map",
+    "453.f03159f6.chunk.js.map": "/dino-game/static/js/453.f03159f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d766016.css",
+    "static/js/main.ee75cd04.js"
+  ]
+}
