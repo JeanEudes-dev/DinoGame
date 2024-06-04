@@ -132,7 +132,7 @@ const Game: React.FC = () => {
                 // Increase speed and decrease jump duration every 1000 points
                 if (score > 0 && score % 100 === 0) {
                     setSpeed((prev) => prev + 1);
-                    setJumpDuration((prev) => Math.max(prev - 100, 200));
+                    setJumpDuration((prev) => Math.max(prev - 10, 200));
                 }
             }, 50);
 
