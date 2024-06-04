@@ -9,8 +9,8 @@ const DinoWrapper = styled.div<{ isJumping: boolean }>`
   justify-content: center;
   align-items: center;
   position: absolute;
-  bottom: ${({ isJumping }) => (isJumping ? '150px' : '50px')};
-  transition: bottom 0.3s;
+  bottom: ${({ isJumping }) => (isJumping ? '200px' : '70px')};
+  transition: bottom 0.8s;
 `;
 
 const Dino: React.FC<{ isJumping: boolean }> = ({ isJumping }) => {

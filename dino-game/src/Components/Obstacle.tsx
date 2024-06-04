@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import { RiRectangleFill } from "react-icons/ri";
 
 const ObstacleWrapper = styled.div<{ left: number }>`
-  width: 20px;
+  width: 40px;
   height: 50px;
   display: flex;
   justify-content: center;
@@ -11,7 +11,8 @@ const ObstacleWrapper = styled.div<{ left: number }>`
   position: absolute;
   bottom: 50px;
   left: ${({ left }) => left}px;
-  transition: left 0.1s linear;
+  transition: left 0.07s linear;
+  color: orange;
 `;
 
 const Obstacle: React.FC<{ left: number }> = ({ left }) => {
