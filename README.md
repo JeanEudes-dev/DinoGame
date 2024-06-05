@@ -7,9 +7,6 @@ Welcome to the Dino Game! This project is a fun and interactive game where you c
 ## 🌟 Live Demo
 Check out the live version of the game [here](https://jeaneudes-dev.github.io/DinoGame/).
 
-## 📸 Screenshots
-![Gameplay Screenshot](./screenshots/gameplay.png)
-
 ## 🚀 Features
 - **Responsive Design:** Enjoy the game on both desktop and mobile devices.
 - **Dynamic Difficulty:** The game gets progressively harder as you score more points.
